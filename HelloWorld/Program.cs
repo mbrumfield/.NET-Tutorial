@@ -15,6 +15,8 @@ namespace MyNewApp
 
             // Prevent the screen from running and closing quickly
             Console.ReadKey();
+
+            // Testing changes in Visual Studio
         }
     }
 }
